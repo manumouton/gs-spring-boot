@@ -1,0 +1,1 @@
+Test for Jenkins continuous delivery via AWS
