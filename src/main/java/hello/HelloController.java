@@ -15,5 +15,10 @@ public class HelloController {
     public String home() {
         return "Greetings from Spring Boot from HOME!";
     }
+
+    @RequestMapping("/salut")
+    public String rtest() {
+        return "Greetings";
+    }
     
 }
