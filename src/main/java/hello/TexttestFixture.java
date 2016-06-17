@@ -4,7 +4,7 @@ package hello;
  * Created by Manu on 17/06/16.
  */
 public class TexttestFixture {
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         System.out.println("OMGHAI!");
 
         Item[] items = new Item[] {
@@ -35,6 +35,6 @@ public class TexttestFixture {
             System.out.println();
             app.updateQuality();
         }
-    }
+    }*/
 
 }
